@@ -1,0 +1,6 @@
+.pokemonBackground{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(C:/Users/lenovo/Desktop/webd/Projects/pokedex/src/images/pokemons.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height:100vh;
+}

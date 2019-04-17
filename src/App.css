@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.noMargin{
+    margin:0;
+}
+
+.blackBackground{
+    background: black;
+    color:white;
+    min-height: 100vh;
+}
+
+.capitalizeFirstLetter{
+    text-transform: capitalize;
+}
